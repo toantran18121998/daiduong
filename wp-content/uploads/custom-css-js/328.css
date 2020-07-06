@@ -1,0 +1,32 @@
+<!-- start Simple Custom CSS and JS -->
+<style type="text/css">
+/* Add your CSS code here.
+
+For example:
+.example {
+    color: red;
+}
+
+For brushing up on your CSS knowledge, check out http://www.w3schools.com/css/css_syntax.asp
+
+End of comment */ 
+
+#cookie-law-info-bar{
+  display:none !important;
+}
+.cmsmasters_stat_inner {
+  height:20px !important
+}
+.cmsmasters_stat_inner::before {
+  bottom:22px !important
+}
+.cmsmasters_stat_title{
+  bottom:22px !important;
+}
+.cmsmasters_stat_counter_wrap{
+   bottom:22px !important;
+}
+.cmsmasters_stats.stats_mode_bars.stats_type_horizontal .cmsmasters_stat_wrap .cmsmasters_stat{
+  min-height:45px !important;
+}</style>
+<!-- end Simple Custom CSS and JS -->

@@ -1,0 +1,638 @@
+<!-- start Simple Custom CSS and JS -->
+<style type="text/css">
+/* Add your CSS code here.
+
+For example:
+.example {
+    color: red;
+}
+
+For brushing up on your CSS knowledge, check out http://www.w3schools.com/css/css_syntax.asp
+
+End of comment */ 
+
+@media  (max-width: 500px) {
+  .section5{
+    margin-bottom: -64px;
+  }
+  .section0{
+    margin-bottom: -35px !important;
+  }
+  ._j68{
+    display: none !important;
+  }
+  
+    .aligncenter {
+    text-align: left;
+    margin-left: 47px;
+}
+  .section1{
+    display: none !important;
+  }
+    .section2 {
+    display: none !important;
+  }
+  .fb-customerchat iframe{display: none !important;}
+  .cmsmasters_row_margin {
+    margin: 0px 0.93%;
+    position: relative;
+}
+   
+
+  div .cmsmasters_row_outer_parent{
+    text-align: center !important;
+  }
+
+  .cmsmasters_heading {
+    font-size: 20px !important;
+  }
+    .image5{
+        max-width: 25% !important;
+    position: relative;
+    top: -19px;
+  }
+    .image4{
+        max-width: 25% !important;
+    position: relative;
+    top: -9px;
+  }
+  .image3{
+        max-width: 25% !important;
+  }
+  .image1{
+        max-width: 25% !important;
+    position: relative;
+    top: -19px;
+  }
+  .divi1{
+    display: none;
+  }
+  
+  image1{
+    position: relative;
+    top: -23px !important;
+  }
+  .button8{
+    left: 80px !important;
+    display: block !important;
+    top: -80px !important;
+    width: 165px !important;
+  }
+  .text5{
+    display: block !important;
+    position: relative;
+    top: -85px;
+    text-align: left !important;
+    left: 115px;
+  }
+  .button3{
+    left: 80px !important;
+    display: block !important;
+    position: relative;
+    top: -67px !important;
+    width: 165px !important;
+  }
+  .text4{
+    display: block !important;
+    position: relative;
+    top: -85px;
+    text-align: left !important;
+    left: 125px;
+  }
+  .head4{
+    position: relative;
+    left: 7px;
+  }
+  .button2{
+    left: 80px !important;
+    display: block !important;
+    position: relative;
+    top: -66px !important;
+    width: 165px !important;
+   
+  }
+    .text3{
+      display: block !important;
+      
+    position: relative;
+    top: -85px;
+    text-align: left !important;
+    left: 125px;
+  }
+    .head3{
+    position: relative;
+    left: 11px;
+  }
+  .col1{
+    margin-bottom: 6px;
+    box-shadow: 0px 0px 5px -2px rgba(0,7,102,1);
+  }
+  .col5{
+    box-shadow: 0px 0px 5px -2px rgba(0,7,102,1);
+  }
+  .col3{
+    box-shadow: 0px 0px 5px -2px rgba(0,7,102,1);
+    margin-bottom: 8px;
+  }
+  .col4{
+    box-shadow: 0px 0px 5px -2px rgba(0,7,102,1);
+    margin-bottom: -43px !important;
+  }
+  .button7{
+    left: 80px !important;
+    display: block !important;
+    position: relative;
+    top: -88px !important;
+    width: 165px !important;
+  }
+  .text1{
+    display: block !important;
+    position: relative;
+    top: -99px;
+    text-align: left !important;
+    left: 125px;
+  }
+  .head1{
+    position: relative;
+    left: 10px;
+    text-align: center !important;
+  }
+  .col8{
+    display: none;
+  }
+  .col7{
+    display: none;
+  }
+  .col6{
+    display: none;
+  }
+  .col2{
+    display: none;
+  }
+
+  .header_mid{
+    display: none !important;
+  }
+  .header_top_but closed{
+    display: none !important;
+  }
+  .header_mid_outer{
+    display: none !important;
+  }
+  
+ .topbar{
+    display: none !important;
+  }
+  .runeff {
+    -webkit-animation: quick-alo-circle-img-anim 1s infinite ease-in-out;
+    -moz-animation: quick-alo-circle-img-anim 1s infinite ease-in-out;
+    -ms-animation: quick-alo-circle-img-anim 1s infinite ease-in-out;
+    -o-animation: quick-alo-circle-img-anim 1s infinite ease-in-out;
+    animation: quick-alo-circle-img-anim 1s infinite ease-in-out;
+    -webkit-transform-origin: 50% 50%;
+    -moz-transform-origin: 50% 50%;
+    -ms-transform-origin: 50% 50%;
+    -o-transform-origin: 50% 50%;
+    transform-origin: 50% 50%;
+}
+  .row p {
+    padding: 5px 10px 20px;
+    margin: 1px;
+}
+  .fb_dialog
+  {
+    display: none !important;
+  }
+  .list-menu-item a{
+    margin-bottom: 10px;
+    
+  }
+  .contentMenu ul li .list-menu-item a {
+    font-size: 15px;
+    width: 100%;
+    float: left;
+    border-bottom: #005b8e solid 1px;
+}
+  .contentMenu ul li .list-menu-item {
+    padding-left: 20px;
+    display: none;
+}
+  .contentMenu .logo-menu img {
+    height: 80px !important;
+}
+  .contentMenu .logo-menu {
+    width: 100%;
+    height: auto;
+    float: left;
+    text-align: center;
+    padding-top: 30px;
+}
+  .logo_wrap{
+    float: right !important;
+    width: 100px !important;
+    height: 80px !important;
+ 	}
+  .header_mid{
+    height: 85px !important;
+  }
+  .resp_mid_nav_outer .responsive_nav {
+   	display: block !important;
+  }
+  .search_button{
+    
+  }
+  .search_field{
+    
+  }
+  .ty-gia{
+    display:block !important;
+  }
+  
+  .menu_bottom {
+    display: block !important;
+    position: fixed;
+    background-color: #ff791a;
+    z-index: 20;
+    width: 100%;
+    padding: 2px 0px;
+    padding-top: 6px;
+    bottom: 0px;
+    left: 0px;
+    height: 50px;
+}
+  .menu_bottom ul {
+    display: block;
+    width: 100%;
+    padding-left: 0;
+}
+  .menu_bottom ul li {
+    display: inline-block;
+    width: 19%;
+    position: relative;
+    top: -45px;
+}
+  .icon_mn {
+    margin: auto;
+    background: url(https://haitau.vn/wp-content/themes/hai-tau/images/icon-menu-bang-gia.png) no-repeat center;
+    background-size: 15px;
+    width: 25px;
+    height: 25px;
+}
+  .menu_bottom ul li.li_main {
+    display: inline-block;
+    width: 13%;
+    position: relative;
+    top: -40px;
+}
+ol, ul {
+    margin-top: 0;
+    margin-bottom: 10px;
+}
+ul {
+    display: block;
+    list-style-type: disc;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    padding-inline-start: 40px;
+}
+.text_mnbottom {
+    font-size: 12px;
+    color: #fff;
+    padding-top: 1px;
+}
+.icon_tieuhoc {
+    margin: auto;
+    background: url(https://cdn.doctailieu.com/static/mobile/icon-tieu-hoc.png) no-repeat center;
+    background-size: 100%;
+    width: 25px;
+    height: 25px;
+}
+.icon_tieuhoc {
+    margin: auto;
+    background: url(https://cdn.doctailieu.com/static/mobile/icon-tieu-hoc.png) no-repeat center;
+    background-size: 100%;
+    width: 25px;
+    height: 25px;
+}
+
+    .close_menu_main {
+    margin: auto;
+    background: url(https://cdn.doctailieu.com/static/mobile/icon-close.png) no-repeat center #f9650c;
+    background-size: 80%;
+    width: 62px;
+    height: 62px;
+    border-radius: 80px;
+    position: absolute;
+    top: 12px;
+    z-index: 1;
+    opacity: 0;
+    margin-left: 10px;
+    transition: all 0.3s ease-in;
+}
+
+
+    .icon-img {
+    top: -32px;
+    position: absolute;
+    width: 40px;
+    height: 40px;
+    margin: auto;
+    left: 22px;
+}
+
+
+.menu_bottom ul li a {
+    display: block;
+    text-align: center !important;
+}
+  .topbar {
+    background: #005b8e;
+    height: 38px;
+    color: #fff;
+}
+  .container {
+    padding-right: 15px;
+    padding-left: 15px;
+    margin-right: auto;
+    margin-left: auto;
+}
+  .row {
+    margin-right: -15px;
+    margin-left: -15px;
+}
+  .topbar .ty-gia a {
+    color: #FFF;
+}
+  .contentMenu .logo-menu {
+    width: 100%;
+    height: auto;
+    float: left;
+    text-align: center;
+    padding-top: 30px;
+}
+  a {
+    color: #337ab7;
+    text-decoration: none;
+}
+  .contentMenu {
+    width: 100%;
+    height: calc(100% - 50px);
+    position: fixed;
+    left: 0;
+    bottom: 50px;
+    overflow-y: auto;
+    background: url(https://scontent.fhan2-4.fna.fbcdn.net/v/t1.15752-9/106115027_770123027069770_153009794465317032_n.jpg?_nc_cat=105&_nc_sid=b96e70&_nc_ohc=qNeOkpkWAvAAX_w1k1h&_nc_ht=scontent.fhan2-4.fna&oh=a596c4e776c531ce39d598fcda5f0516&oe=5F19CFD3);
+    display: none;
+    z-index: 999999;
+    background-size: 100%;
+}
+  .contentMenu ul {
+    padding: 0;
+    list-style: none;
+    width: 100%;
+    height: calc(100% - 110px);
+    float: left;
+    padding: 0 10px 30px 10px;
+    position: absolute;
+    top: 100px;
+    overflow: auto;
+}
+  .contentMenu .logo-menu img {
+    height: 50px;
+}
+  .contentMenu ul li {
+    width: 100%;
+    height: auto;
+    float: left;
+    border-bottom: #4ab9cf solid 1px;
+    line-height: 45px;
+    position: relative;
+}
+  .contentMenu ul li a {
+    text-transform: uppercase;
+    color: aliceblue;
+    font-size: 16px;
+    font-weight: bold;
+}
+  .fa {
+    display: inline-block;
+    font: normal normal normal 14px/1 FontAwesome;
+    font-size: inherit;
+    text-rendering: auto;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+  .contentMenu ul li span {
+    width: 45px;
+    height: 45px;
+    position: absolute;
+    right: 0;
+    top: 0;
+    text-align: center;
+    line-height: 45px;
+    color: #FFF;
+    font-size: 20px;
+}
+  .contentMenu ul li .list-menu-item {
+    padding-left: 20px;
+    display: none;
+}
+  
+}
+
+.icon_menu {
+    margin: auto;
+    background: url(https://cdn.doctailieu.com/static/mobile/icon-menu.png) no-repeat center #4ab9cf;
+    background-size: 50%;
+    width: 62px;
+    height: 62px;
+    border-radius: 80px;
+    position: relative;
+    top: 2px;
+    margin-left: 10px;
+}
+.fb_dialog_content{
+  display: none;
+}
+#slide_top{
+  display:none !important;
+}
+.ty-gia{
+  display: none;
+}
+.menu_bottom{
+  display: none;
+}
+.contentMenu{
+  display: none;
+}
+@-moz-keyframes quick-alo-circle-img-anim {
+    10% {
+        transform: rotate(0) scale(1) skew(1deg)
+    }
+    10% {
+        -moz-transform: rotate(-25deg) scale(1) skew(1deg)
+    }
+    20% {
+        -moz-transform: rotate(25deg) scale(1) skew(1deg)
+    }
+    30% {
+        -moz-transform: rotate(-25deg) scale(1) skew(1deg)
+    }
+    40% {
+        -moz-transform: rotate(25deg) scale(1) skew(1deg)
+    }
+    50% {
+        -moz-transform: rotate(0) scale(1) skew(1deg)
+    }
+    100% {
+        -moz-transform: rotate(0) scale(1) skew(1deg)
+    }
+}
+
+@-webkit-keyframes quick-alo-circle-img-anim {
+    0% {
+        -webkit-transform: rotate(0) scale(1) skew(1deg)
+    }
+    10% {
+        -webkit-transform: rotate(-25deg) scale(1) skew(1deg)
+    }
+    20% {
+        -webkit-transform: rotate(25deg) scale(1) skew(1deg)
+    }
+    30% {
+        -webkit-transform: rotate(-25deg) scale(1) skew(1deg)
+    }
+    40% {
+        -webkit-transform: rotate(25deg) scale(1) skew(1deg)
+    }
+    50% {
+        -webkit-transform: rotate(0) scale(1) skew(1deg)
+    }
+    100% {
+        -webkit-transform: rotate(0) scale(1) skew(1deg)
+    }
+}
+
+@-o-keyframes quick-alo-circle-img-anim {
+    0% {
+        -o-transform: rotate(0) scale(1) skew(1deg)
+    }
+    10% {
+        -o-transform: rotate(-25deg) scale(1) skew(1deg)
+    }
+    20% {
+        -o-transform: rotate(25deg) scale(1) skew(1deg)
+    }
+    30% {
+        -o-transform: rotate(-25deg) scale(1) skew(1deg)
+    }
+    40% {
+        -o-transform: rotate(25deg) scale(1) skew(1deg)
+    }
+    50% {
+        -o-transform: rotate(0) scale(1) skew(1deg)
+    }
+    100% {
+        -o-transform: rotate(0) scale(1) skew(1deg)
+    }
+}
+.button1{
+  position: relative;
+    top: 36px;
+}
+.button2{
+  position: relative;
+    top: 66px;
+}
+.button3{
+  position: relative;
+    top: 66px;
+}
+.button4{
+  position: relative;
+    top: 90px;
+}
+.image7{
+  position: relative;
+    top: 34px;
+}
+.text7{
+  position: relative;
+    top: 37px;
+}
+.button5{
+  position: relative;
+    top: 106px;
+}
+.button6{
+  position: relative;
+    top: 70px;
+}
+.button7{
+  position: relative;
+    top: 66px;
+}
+.button8{
+  position: relative;
+    top: 79px;
+}
+    #section2 {
+    display: none !important;
+  }
+.text1{
+  display: none;
+}
+.text2{
+  display: none;
+}
+.text3{
+  display: none;
+}
+.text4{
+  display: none;
+}
+.text5{
+  display: none;
+}
+.text6{
+  display: none;
+}
+.text7{
+  display: none;
+}
+.text8{
+  display: none;
+}
+.button1{
+  display: none;
+}
+.button2{
+  display: none;
+}
+.button3{
+  display: none;
+}
+.button4{
+  display: none;
+}
+.button5{
+  display: none;
+}
+.button6{
+  display: none;
+}
+.button7{
+  display: none;
+}
+.button8{
+  display: none;
+}
+._j68{
+    display: none !important;
+  }
+.fb-customerchat iframe{display: none !important;}
+</style>
+<!-- end Simple Custom CSS and JS -->
